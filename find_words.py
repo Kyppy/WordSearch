@@ -1,5 +1,5 @@
 """
-This script was written by Kyppy Ngaira Simani and completed on October 3rd, 2019
+This script was written by Kyppy Ngaira Simani
 
 PROBLEM STATEMENT:
 Given a dictionary and a file containing a list of input words, write a
